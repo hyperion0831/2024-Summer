@@ -1,4 +1,4 @@
-# 2024-Summer
+# Introduction
 The Simulated Dataset Generator comprises two distinct codes, labeled "yes" and "no". As detailed in the paper, the primary distinction between these codes lies in the adjustment of the phi value within the range of [-π, π] at line 93 of the "yes" code, which is absent in the "no" code. Consequently, the performance of "no" deteriorates as the shifted energy simply dissipates, and a greater proportion of energy is displaced beyond the image boundaries as B increases. Readers can generate datasets by themselves based on the "yes" and "no" code. Magnetic field strength can be adjusted by changing the parameter of KBField at line 11. For example, in our paper, we use 0.00, 0.05, 0.10, 0.25, 0.35, 0.50, 0.75, 0.90, 1.00, 1.20, 1.40 and 1.50.
 
 The imageplotter section contains the code responsible for generating comparative plots and tables of various standard deviations (std).
