@@ -7,4 +7,4 @@
 
 4. The **model** section encapsulates all the models referenced in our research paper.
 
-The results of our dataset processed by different models can be found and downloaded via the following link, totaling approximately 66 GB：https://pan.baidu.com/s/1AmdKyAnnuyBc1w7dejrMOg?pwd=gty4
+The results of our dataset processed by different models can be found and downloaded via the following link, totaling approximately 66 GB，readers can download if you are interested：https://pan.baidu.com/s/1AmdKyAnnuyBc1w7dejrMOg?pwd=gty4
